@@ -1,4 +1,4 @@
-# VMware Buildathon'21 || Simple Expense Tracker Prototype
+# VMware Buildathon'21 || Simple Expense Tracker (Prototype)
 
 ### Note: Since the email service gets suspended when the codebase is uploaded to a public repository (due to exposure of api keys), the latest version of the codebase have not been uploaded @github, instead it has been deployed directly using VMware Tanzu Application Service. 
 <a href="https://expensemanager.apps.modernapps.site/"> #Open the website </a><br><br>
