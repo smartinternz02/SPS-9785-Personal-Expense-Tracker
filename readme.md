@@ -1,6 +1,6 @@
 # VMware Buildathon'21 || Simple Expense Tracker (Prototype)
 
-### Note: Since the email service gets suspended when the codebase is uploaded to a public repository (due to exposure of api keys), the coedbase uploaded here doesn't have any credentials within it, instead the codebase with the appropriate credentials are deployed directly to VMware Tanzu Application Service. 
+### Note: Since the email service gets suspended when the codebase is uploaded to a public repository (due to exposure of api keys), the codebase uploaded here doesn't have any credentials within it.
 <a href="https://expensemanager.apps.pcfdev.in/"> #Open the website </a><br><br>
 <img src="https://user-images.githubusercontent.com/48920595/117537722-7eef8300-b020-11eb-86ca-9be7342ee06d.png"></img><br>
 
