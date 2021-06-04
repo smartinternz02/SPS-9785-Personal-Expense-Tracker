@@ -2,7 +2,7 @@
 
 ### Note: Since the email service gets suspended when the codebase is uploaded to a public repository (due to exposure of api keys), the codebase uploaded here doesn't have any credentials within it.
 Website: <a href="https://expensemanager.apps.pcfdev.in/"> Personal Expense Tracker (Prototype) </a><br><br>
-Video: <a href="https://drive.google.com/file/d/1whIa6w6_mdX6Zyh_E92aeC6uL3HqfJto/view?usp=sharing"> View</a><br><br>
+
 
 <img src="https://user-images.githubusercontent.com/48920595/117537722-7eef8300-b020-11eb-86ca-9be7342ee06d.png"></img><br>
 
